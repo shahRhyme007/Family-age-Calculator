@@ -1,0 +1,13 @@
+mother 41 F 14 1 1980 Pervin, Afrose
+brother 16 M 8 12 2005 Rhythm, Shah Mahmud Hasan 
+sister 35 F 19 3 1986 Chowdhary, Jabun
+brother-in-law 39 M 2 4 1982 Chowdhary, Shamun
+Father 50 M 1 1 1971 Tutul, Shah Abu Hasan
+Brother 19 M 12 7 2002 Rakib, Rakibul Hasan
+friend 20.75 U 13 3 2000 Arpon, Rifat Sadman
+friend 20 M 12 12 2001 Nur, A007shmit Ibne
+sister 31 F 23 1 1990 Samina Tasnim, Eti
+Brother 23 M 20 5 1998 Nobel, Asif-Arman
+friend 22 U 26 12 1999 Mom, Zahidur Rashid
+Grandfather 33 M 14 13 1938 Uddin, Shah-Mahtab
+Grandmother 60 F 11  2 1940 Begum, Jobeda

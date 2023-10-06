@@ -1,0 +1,30 @@
+first                last                 Age   Birthday        Gender         Relationship
+
+Afrose               Pervin               41.00  1/14/1980      F                    mother
+Shah Mahmud Hasan    Rhythm               16.00 12/ 8/2005      M                   brother
+Jabun                Chowdhary            35.00  3/19/1986      F                    sister
+Shamun               Chowdhary            39.00  4/ 2/1982      M            brother-in-law
+Shah Abu Hasan       Tutul                50.00  1/ 1/1971      M                    Father
+Rakibul Hasan        Rakib                19.00  7/12/2002      M                   Brother
+Rifat Sadman         Arpon                20.75  3/13/2000      U                    friend
+A007shmit Ibne       Nur                  20.00 12/12/2001      M                    friend
+Eti                  Samina Tasnim        31.00  1/23/1990      F                    sister
+Asif-Arman           Nobel                23.00  5/20/1998      M                   Brother
+Zahidur Rashid       Mom                  22.00 12/26/1999      U                    friend
+Shah-Mahtab          Uddin                33.00 13/14/1938      M               Grandfather
+Jobeda               Begum                60.00  2/11/1940      F               Grandmother
+Afrose Pervin, my mother, passed away at age 41.0
+Shah Mahmud Hasan  Rhythm, my brother, passed away at age 16.0
+Jabun Chowdhary, my sister, passed away at age 35.0
+Shamun Chowdhary, my brother-in-law, passed away at age 39.0
+Shah Abu Hasan Tutul, my Father, passed away at age 50.0
+Rakibul Hasan Rakib, my Brother, passed away at age 19.0
+Rifat Sadman Arpon, my friend, passed away at age 20.8
+A007shmit Ibne Nur, my friend, passed away at age 20.0
+Eti Samina Tasnim, my sister, passed away at age 31.0
+Asif-Arman Nobel, my Brother, passed away at age 23.0
+Zahidur Rashid Mom, my friend, passed away at age 22.0
+Shah-Mahtab Uddin, my Grandfather, passed away at age 33.0
+Jobeda Begum, my Grandmother, passed away at age 60.0
+At age 41.00 , Afrose Pervin was born on 1/14/1980 and is the oldest living person in the file
+At age  1/14/1980, Afrose Pervin has the most recent birthdate in the file 
